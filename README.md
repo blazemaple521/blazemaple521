@@ -27,5 +27,5 @@
 <br>
 
 <div align="center">
-	<img  src="https://github-profile-trophy.vercel.app/?username=blazemaple521" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=blazemaple521&theme=xcode" />
 </div>
