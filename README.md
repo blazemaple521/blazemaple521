@@ -13,8 +13,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
-
   <!-- for beauty 留个空行好看点 -->
+
+![Visitor Count](https://profile-counter.glitch.me/blazemaple521/count.svg)
+
   <div>&nbsp;</div>
 
 <br>
