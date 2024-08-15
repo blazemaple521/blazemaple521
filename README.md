@@ -8,7 +8,9 @@
   </div>
 <div align="center" >
 <!-- just img 图片 -->
-<img src="https://upload.yolo912.icu/mdImage/programer.gif" width="415" height="250" />
+<img src="https://upload.yolo912.icu/mdImage/programer.gif" width="375" height="210" />
+
+<br>
 
 <!--  skill badge 技能徽章 -->
 ![Java Badge](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat)
