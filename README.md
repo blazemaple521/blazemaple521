@@ -45,6 +45,8 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blazemaple521&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000" />
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blazemaple521&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000" /><br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
