@@ -8,14 +8,6 @@
   </div>
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=blazemaple521&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=blazemaple521&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=blazemaple521&show_icons=true" />
-</picture>
+<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blazemaple521&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blazemaple521&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000" /><br>
