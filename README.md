@@ -49,9 +49,9 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blazemaple521&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000" /><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%209%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-924.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-925.0%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -59,19 +59,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 hrs 4 mins       ██████████████████████░░░   87.21 % 
-Java                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-XML                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Python                   17 hrs 44 mins      ████████████████████████░   94.84 % 
+Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  14 hrs 49 mins      ███████████████████████░░   91.87 % 
-IntelliJ IDEA            1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-WebStorm                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+PyCharm                  18 hrs 42 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -87,7 +84,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024/08/29 16:17:52 UTC
+ Last Updated on 2024/08/30 16:17:07 UTC
 <!--END_SECTION:waka-->
 
 
