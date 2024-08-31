@@ -49,7 +49,7 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blazemaple521&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000" /><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-925.0%20thousand%20lines%20of%20code-blue)
 
@@ -59,16 +59,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs 44 mins      ████████████████████████░   94.84 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   21 hrs 3 mins       ███████████████████████░░   90.10 % 
+Text                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+XML                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-PyCharm                  18 hrs 42 mins      █████████████████████████   100.00 % 
+PyCharm                  22 hrs 59 mins      █████████████████████████   98.36 % 
+IntelliJ IDEA            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 💻 Operating System: 
-Windows                  18 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +86,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024/08/30 16:17:07 UTC
+ Last Updated on 2024/08/31 16:17:27 UTC
 <!--END_SECTION:waka-->
 
 
