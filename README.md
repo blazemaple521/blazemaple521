@@ -49,7 +49,7 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blazemaple521&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000" /><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-952.9%20thousand%20lines%20of%20code-blue)
 
@@ -59,13 +59,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 50 mins       ██████████████████████░░░   86.99 % 
+YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+textmate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            3 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -81,7 +85,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024/10/08 16:19:35 UTC
+ Last Updated on 2024/10/09 16:18:34 UTC
 <!--END_SECTION:waka-->
 
 
