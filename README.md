@@ -49,25 +49,7 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blazemaple521&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000" /><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2020%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-952.9%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     1 hr 24 mins        █████████████████████████   99.99 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-IntelliJ IDEA            1 hr 24 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in Java** 
 
@@ -82,7 +64,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024/10/21 16:18:44 UTC
+ Last Updated on 2024/10/22 16:19:26 UTC
 <!--END_SECTION:waka-->
 
 
