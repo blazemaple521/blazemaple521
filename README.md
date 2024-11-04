@@ -51,6 +51,23 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-952.9%20thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Java                     5 hrs 27 mins       █████████████████████████   99.94 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+IntelliJ IDEA            5 hrs 28 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -64,7 +81,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024/11/03 16:17:21 UTC
+ Last Updated on 2024/11/04 16:19:49 UTC
 <!--END_SECTION:waka-->
 
 
