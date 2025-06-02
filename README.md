@@ -49,9 +49,9 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blazemaple521&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000" /><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2041%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-952.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-953.7%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -59,29 +59,32 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     54 mins             ██████████████████████░░░   89.83 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     15 repos            ████████████████░░░░░░░░░   62.50 % 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Java                     16 repos            ████████████████░░░░░░░░░   64.00 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 2025/06/01 16:20:02 UTC
+ Last Updated on 2025/06/02 16:22:48 UTC
 <!--END_SECTION:waka-->
 
 
