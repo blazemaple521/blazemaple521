@@ -49,8 +49,6 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blazemaple521&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000" /><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2054%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.12%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -81,7 +79,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/05/30 17:01:16 UTC
+ Last Updated on 2026/05/31 17:03:52 UTC
 <!--END_SECTION:waka-->
 
 
