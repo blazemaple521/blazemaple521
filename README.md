@@ -53,6 +53,21 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.12%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -66,7 +81,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/06/12 18:04:36 UTC
+ Last Updated on 2026/06/13 17:20:10 UTC
 <!--END_SECTION:waka-->
 
 
